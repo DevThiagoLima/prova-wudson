@@ -15,6 +15,6 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-|Luiz Eduardo Serafim Costa|2024211510213|Garotos De Programa|
-| Aluno 2        | 654321    | Equipe B |
+| Luiz Eduardo Serafim Costa | 2024211510213 | Garotos De Programa |
+| Entoni Lucas | 2024211510218 | Garotos De Programa |
 <!-- Adicione mais alunos aqui -->
