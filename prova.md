@@ -17,4 +17,5 @@ Período: 1º Período
 |----------------|-----------|----------|
 | Luiz Eduardo Serafim Costa | 2024211510213 | Garotos De Programa |
 | Entoni Lucas | 2024211510218 | Garotos De Programa |
+| Alberto Lucas Martins Alves | 2024211510265 | Garotos De Programa |
 <!-- Adicione mais alunos aqui -->
